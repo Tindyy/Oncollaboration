@@ -37,3 +37,11 @@ The OnCollaboration project has already developed a successful webinar platform:
 
 ## Conclusion
 OnCollaboration provides a crucial platform for knowledge sharing and skill development between Dutch and Indonesian radiotherapy professionals. By improving access to advanced techniques and fostering collaboration, the project works toward more equitable cancer care in Indonesia and other low-income regions.
+
+
+### ReadMe
+
+In this sprint the focus was mainly on creating a styleguide, using given information/style by the client. We have made a styleguide that we can all use for the project so that the group is using the same style in our work. 
+
+
+
